@@ -1,0 +1,2200 @@
+[{
+  "_id": {
+    "$oid": "6721cd32573cfbc7cdc91b48"
+  },
+  "Book Name": "Spider-Man: Into the Spider-Verse",
+  "Author Name": "Brian Michael Bendis",
+  "Year of Publication": 2018,
+  "Price": 12.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd32573cfbc7cdc91b49"
+  },
+  "Book Name": "Batman: Year One",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1987,
+  "Price": 14.99,
+  "Number of Pages": 96,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd32573cfbc7cdc91b4a"
+  },
+  "Book Name": "Wonder Woman: The Hiketeia",
+  "Author Name": "Greg Rucka",
+  "Year of Publication": 2002,
+  "Price": 10.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd32573cfbc7cdc91b4b"
+  },
+  "Book Name": "The Walking Dead: Compendium One",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2010,
+  "Price": 59.99,
+  "Number of Pages": 1088,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd32573cfbc7cdc91b4c"
+  },
+  "Book Name": "X-Men: Days of Future Past",
+  "Author Name": "Chris Claremont",
+  "Year of Publication": 1981,
+  "Price": 15,
+  "Number of Pages": 100,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b4e"
+  },
+  "Book Name": "Spider-Man: Into the Spider-Verse",
+  "Author Name": "Brian Michael Bendis",
+  "Year of Publication": 2018,
+  "Price": 12.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b4f"
+  },
+  "Book Name": "Batman: Year One",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1987,
+  "Price": 14.99,
+  "Number of Pages": 96,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b50"
+  },
+  "Book Name": "Wonder Woman: The Hiketeia",
+  "Author Name": "Greg Rucka",
+  "Year of Publication": 2002,
+  "Price": 10.99,
+  "Number of Pages": 88,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b51"
+  },
+  "Book Name": "The Walking Dead: Volume 1",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2004,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b52"
+  },
+  "Book Name": "X-Men: Days of Future Past",
+  "Author Name": "Chris Claremont",
+  "Year of Publication": 1981,
+  "Price": 15.99,
+  "Number of Pages": 112,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b53"
+  },
+  "Book Name": "Saga: Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2012,
+  "Price": 9.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b54"
+  },
+  "Book Name": "Deadpool: Dead Presidents",
+  "Author Name": "Brian Posehn",
+  "Year of Publication": 2016,
+  "Price": 17.99,
+  "Number of Pages": 136,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b55"
+  },
+  "Book Name": "Black Panther: A Nation Under Our Feet",
+  "Author Name": "Ta-Nehisi Coates",
+  "Year of Publication": 2016,
+  "Price": 14.99,
+  "Number of Pages": 200,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b56"
+  },
+  "Book Name": "The Flash: Rebirth",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2009,
+  "Price": 24.99,
+  "Number of Pages": 224,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b57"
+  },
+  "Book Name": "Maus: A Survivor's Tale",
+  "Author Name": "Art Spiegelman",
+  "Year of Publication": 1986,
+  "Price": 14.99,
+  "Number of Pages": 296,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b58"
+  },
+  "Book Name": "Civil War",
+  "Author Name": "Mark Millar",
+  "Year of Publication": 2006,
+  "Price": 19.99,
+  "Number of Pages": 224,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b59"
+  },
+  "Book Name": "Sandman: Preludes and Nocturnes",
+  "Author Name": "Neil Gaiman",
+  "Year of Publication": 1989,
+  "Price": 24.99,
+  "Number of Pages": 240,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b5a"
+  },
+  "Book Name": "Hellboy: Seed of Destruction",
+  "Author Name": "Mike Mignola",
+  "Year of Publication": 1994,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b5b"
+  },
+  "Book Name": "Bone: Out from Boneville",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 2005,
+  "Price": 10.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b5c"
+  },
+  "Book Name": "Locke & Key: Welcome to Lovecraft",
+  "Author Name": "Joe Hill",
+  "Year of Publication": 2008,
+  "Price": 18.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b5d"
+  },
+  "Book Name": "Watchmen",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 1986,
+  "Price": 24.99,
+  "Number of Pages": 416,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b5e"
+  },
+  "Book Name": "V for Vendetta",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 1988,
+  "Price": 19.99,
+  "Number of Pages": 296,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b5f"
+  },
+  "Book Name": "The Umbrella Academy: Apocalypse Suite",
+  "Author Name": "Gerard Way",
+  "Year of Publication": 2008,
+  "Price": 15.99,
+  "Number of Pages": 184,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b60"
+  },
+  "Book Name": "Paper Girls: Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2015,
+  "Price": 9.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b61"
+  },
+  "Book Name": "Scott Pilgrim's Precious Little Life",
+  "Author Name": "Bryan Lee O'Malley",
+  "Year of Publication": 2004,
+  "Price": 10.99,
+  "Number of Pages": 168,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b62"
+  },
+  "Book Name": "Ms. Marvel: No Normal",
+  "Author Name": "G. Willow Wilson",
+  "Year of Publication": 2014,
+  "Price": 12.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b63"
+  },
+  "Book Name": "Hellblazer: Original Sins",
+  "Author Name": "Jamie Delano",
+  "Year of Publication": 1988,
+  "Price": 19.99,
+  "Number of Pages": 272,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b64"
+  },
+  "Book Name": "Ghost World",
+  "Author Name": "Daniel Clowes",
+  "Year of Publication": 2000,
+  "Price": 14.99,
+  "Number of Pages": 80,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b65"
+  },
+  "Book Name": "Fables: Legends in Exile",
+  "Author Name": "Bill Willingham",
+  "Year of Publication": 2002,
+  "Price": 12.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b66"
+  },
+  "Book Name": "The Complete Maus",
+  "Author Name": "Art Spiegelman",
+  "Year of Publication": 1997,
+  "Price": 29.99,
+  "Number of Pages": 368,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b67"
+  },
+  "Book Name": "American Vampire: Volume 1",
+  "Author Name": "Scott Snyder",
+  "Year of Publication": 2010,
+  "Price": 19.99,
+  "Number of Pages": 176,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b68"
+  },
+  "Book Name": "Justice League: Origin",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2012,
+  "Price": 24.99,
+  "Number of Pages": 224,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b69"
+  },
+  "Book Name": "Invincible: Volume 1",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2003,
+  "Price": 19.99,
+  "Number of Pages": 192,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b6a"
+  },
+  "Book Name": "Daredevil: Born Again",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1986,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b6b"
+  },
+  "Book Name": "Saga: Volume 2",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2014,
+  "Price": 14.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b6c"
+  },
+  "Book Name": "Justice League: The New Frontier",
+  "Author Name": "Darwyn Cooke",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b6d"
+  },
+  "Book Name": "The Boys: Volume 1",
+  "Author Name": "Garth Ennis",
+  "Year of Publication": 2006,
+  "Price": 14.99,
+  "Number of Pages": 160,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b6e"
+  },
+  "Book Name": "Red Son",
+  "Author Name": "Mark Millar",
+  "Year of Publication": 2003,
+  "Price": 19.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b6f"
+  },
+  "Book Name": "The Authority: Volume 1",
+  "Author Name": "Warren Ellis",
+  "Year of Publication": 2000,
+  "Price": 19.99,
+  "Number of Pages": 240,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b70"
+  },
+  "Book Name": "The Sandman: The Dollhouse",
+  "Author Name": "Neil Gaiman",
+  "Year of Publication": 1990,
+  "Price": 24.99,
+  "Number of Pages": 240,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b71"
+  },
+  "Book Name": "Captain Marvel: Higher, Further, Faster",
+  "Author Name": "Kelly Sue DeConnick",
+  "Year of Publication": 2014,
+  "Price": 12.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b72"
+  },
+  "Book Name": "All-Star Superman",
+  "Author Name": "Grant Morrison",
+  "Year of Publication": 2006,
+  "Price": 19.99,
+  "Number of Pages": 368,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b73"
+  },
+  "Book Name": "Kingdom Come",
+  "Author Name": "Mark Waid",
+  "Year of Publication": 1996,
+  "Price": 24.99,
+  "Number of Pages": 400,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b74"
+  },
+  "Book Name": "Wonder Woman: The Circle",
+  "Author Name": "Brian Azzarello",
+  "Year of Publication": 2009,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b75"
+  },
+  "Book Name": "Teen Titans: A Kid's Game",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2005,
+  "Price": 12.99,
+  "Number of Pages": 176,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b76"
+  },
+  "Book Name": "The Complete Calvin and Hobbes",
+  "Author Name": "Bill Watterson",
+  "Year of Publication": 1995,
+  "Price": 99.99,
+  "Number of Pages": 1440,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b77"
+  },
+  "Book Name": "Locke & Key: Head Games",
+  "Author Name": "Joe Hill",
+  "Year of Publication": 2009,
+  "Price": 18.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b78"
+  },
+  "Book Name": "Wolverine: Old Man Logan",
+  "Author Name": "Mark Millar",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 224,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b79"
+  },
+  "Book Name": "Batman: The Long Halloween",
+  "Author Name": "Jeph Loeb",
+  "Year of Publication": 1996,
+  "Price": 19.99,
+  "Number of Pages": 384,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b7a"
+  },
+  "Book Name": "Hawkeye: My Life as a Weapon",
+  "Author Name": "Matt Fraction",
+  "Year of Publication": 2013,
+  "Price": 19.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b7b"
+  },
+  "Book Name": "Ninja High School: Volume 1",
+  "Author Name": "Ben Dunn",
+  "Year of Publication": 1987,
+  "Price": 14.99,
+  "Number of Pages": 200,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b7c"
+  },
+  "Book Name": "Star Wars: Darth Vader - Dark Lord of the Sith",
+  "Author Name": "Charles Soule",
+  "Year of Publication": 2017,
+  "Price": 19.99,
+  "Number of Pages": 120,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b7d"
+  },
+  "Book Name": "The Infinite Horizon",
+  "Author Name": "Gerry Duggan",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b7e"
+  },
+  "Book Name": "Chew: Volume 1",
+  "Author Name": "John Layman",
+  "Year of Publication": 2009,
+  "Price": 12.99,
+  "Number of Pages": 240,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b7f"
+  },
+  "Book Name": "Batman: The Court of Owls",
+  "Author Name": "Scott Snyder",
+  "Year of Publication": 2012,
+  "Price": 19.99,
+  "Number of Pages": 240,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b80"
+  },
+  "Book Name": "Gotham Central: In the Line of Duty",
+  "Author Name": "Ed Brubaker",
+  "Year of Publication": 2003,
+  "Price": 19.99,
+  "Number of Pages": 192,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b81"
+  },
+  "Book Name": "Black Widow: The Name of the Rose",
+  "Author Name": "Marjorie Liu",
+  "Year of Publication": 2011,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b82"
+  },
+  "Book Name": "Wonder Woman: Earth One",
+  "Author Name": "Grant Morrison",
+  "Year of Publication": 2016,
+  "Price": 24.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b83"
+  },
+  "Book Name": "The Shadow: Year One",
+  "Author Name": "Cullen Bunn",
+  "Year of Publication": 2013,
+  "Price": 14.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b84"
+  },
+  "Book Name": "Penny Dreadful",
+  "Author Name": "Various",
+  "Year of Publication": 2015,
+  "Price": 19.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b85"
+  },
+  "Book Name": "Doomsday Clock: Part One",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2017,
+  "Price": 24.99,
+  "Number of Pages": 64,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b86"
+  },
+  "Book Name": "Fury Max: My War Gone By",
+  "Author Name": "Garth Ennis",
+  "Year of Publication": 2013,
+  "Price": 19.99,
+  "Number of Pages": 256,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cd5d573cfbc7cdc91b87"
+  },
+  "Book Name": "Transformers: The Definitive G1 Collection",
+  "Author Name": "Various",
+  "Year of Publication": 2016,
+  "Price": 29.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b8a"
+  },
+  "Book Name": "Spider-Man: Into the Spider-Verse",
+  "Author Name": "Brian Michael Bendis",
+  "Year of Publication": 2018,
+  "Price": 12.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b8b"
+  },
+  "Book Name": "Batman: Year One",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1987,
+  "Price": 14.99,
+  "Number of Pages": 96,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b8c"
+  },
+  "Book Name": "Wonder Woman: The Hiketeia",
+  "Author Name": "Greg Rucka",
+  "Year of Publication": 2002,
+  "Price": 10.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b8d"
+  },
+  "Book Name": "The Walking Dead: Compendium One",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2010,
+  "Price": 59.99,
+  "Number of Pages": 1088,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b8e"
+  },
+  "Book Name": "X-Men: Days of Future Past",
+  "Author Name": "Chris Claremont",
+  "Year of Publication": 1981,
+  "Price": 15,
+  "Number of Pages": 100,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b8f"
+  },
+  "Book Name": "Superman: Red Son",
+  "Author Name": "Mark Millar",
+  "Year of Publication": 2003,
+  "Price": 19.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b90"
+  },
+  "Book Name": "The Dark Knight Returns",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1986,
+  "Price": 24.99,
+  "Number of Pages": 224,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b91"
+  },
+  "Book Name": "Sandman: Preludes & Nocturnes",
+  "Author Name": "Neil Gaiman",
+  "Year of Publication": 1989,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b92"
+  },
+  "Book Name": "Saga, Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2012,
+  "Price": 9.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b93"
+  },
+  "Book Name": "Maus: A Survivor's Tale",
+  "Author Name": "Art Spiegelman",
+  "Year of Publication": 1986,
+  "Price": 19.99,
+  "Number of Pages": 296,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b94"
+  },
+  "Book Name": "Watchmen",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 1987,
+  "Price": 29.99,
+  "Number of Pages": 416,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b95"
+  },
+  "Book Name": "V for Vendetta",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 1988,
+  "Price": 24.99,
+  "Number of Pages": 272,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b96"
+  },
+  "Book Name": "The Avengers: The Kree-Skrull War",
+  "Author Name": "Roy Thomas",
+  "Year of Publication": 1971,
+  "Price": 12.99,
+  "Number of Pages": 224,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b97"
+  },
+  "Book Name": "Black Hole",
+  "Author Name": "Charles Burns",
+  "Year of Publication": 2005,
+  "Price": 24.99,
+  "Number of Pages": 368,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b98"
+  },
+  "Book Name": "Bone: Out from Boneville",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 1994,
+  "Price": 9.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b99"
+  },
+  "Book Name": "Hellboy: Seed of Destruction",
+  "Author Name": "Mike Mignola",
+  "Year of Publication": 1994,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b9a"
+  },
+  "Book Name": "The League of Extraordinary Gentlemen",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 2000,
+  "Price": 29.99,
+  "Number of Pages": 224,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b9b"
+  },
+  "Book Name": "Y: The Last Man, Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2003,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b9c"
+  },
+  "Book Name": "Locke & Key: Welcome to Lovecraft",
+  "Author Name": "Joe Hill",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b9d"
+  },
+  "Book Name": "The Complete Maus",
+  "Author Name": "Art Spiegelman",
+  "Year of Publication": 1997,
+  "Price": 29.99,
+  "Number of Pages": 296,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b9e"
+  },
+  "Book Name": "Bone: The Great Cow Race",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 1996,
+  "Price": 9.99,
+  "Number of Pages": 208,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91b9f"
+  },
+  "Book Name": "American Vampire, Volume 1",
+  "Author Name": "Scott Snyder",
+  "Year of Publication": 2010,
+  "Price": 14.99,
+  "Number of Pages": 240,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba0"
+  },
+  "Book Name": "Fables: Legends in Exile",
+  "Author Name": "Bill Willingham",
+  "Year of Publication": 2002,
+  "Price": 12.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba1"
+  },
+  "Book Name": "Invincible: Family Ties",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2009,
+  "Price": 19.99,
+  "Number of Pages": 152,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba2"
+  },
+  "Book Name": "Green Lantern: Rebirth",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2004,
+  "Price": 14.99,
+  "Number of Pages": 176,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba3"
+  },
+  "Book Name": "Captain America: The Winter Soldier",
+  "Author Name": "Ed Brubaker",
+  "Year of Publication": 2005,
+  "Price": 19.99,
+  "Number of Pages": 368,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba4"
+  },
+  "Book Name": "The Complete Calvin and Hobbes",
+  "Author Name": "Bill Watterson",
+  "Year of Publication": 1998,
+  "Price": 100,
+  "Number of Pages": 1440,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba5"
+  },
+  "Book Name": "The Umbrella Academy: Apocalypse Suite",
+  "Author Name": "Gerard Way",
+  "Year of Publication": 2008,
+  "Price": 14.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba6"
+  },
+  "Book Name": "The Goon: Volume 1",
+  "Author Name": "Eric Powell",
+  "Year of Publication": 2003,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba7"
+  },
+  "Book Name": "Shazam!: The Monster Society of Evil",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 2007,
+  "Price": 12.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba8"
+  },
+  "Book Name": "Ms. Marvel: No Normal",
+  "Author Name": "G. Willow Wilson",
+  "Year of Publication": 2014,
+  "Price": 19.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91ba9"
+  },
+  "Book Name": "Death: The High Cost of Living",
+  "Author Name": "Neil Gaiman",
+  "Year of Publication": 1993,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91baa"
+  },
+  "Book Name": "Hawkeye: My Life as a Weapon",
+  "Author Name": "Matt Fraction",
+  "Year of Publication": 2013,
+  "Price": 19.99,
+  "Number of Pages": 224,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bab"
+  },
+  "Book Name": "Runaways: Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2003,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bac"
+  },
+  "Book Name": "Secret Wars",
+  "Author Name": "Jim Shooter",
+  "Year of Publication": 1984,
+  "Price": 29.99,
+  "Number of Pages": 96,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bad"
+  },
+  "Book Name": "Daredevil: Born Again",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1986,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bae"
+  },
+  "Book Name": "Mighty Thor: The God Butcher",
+  "Author Name": "Jason Aaron",
+  "Year of Publication": 2013,
+  "Price": 24.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91baf"
+  },
+  "Book Name": "Hellblazer: Original Sins",
+  "Author Name": "Jamie Delano",
+  "Year of Publication": 1991,
+  "Price": 19.99,
+  "Number of Pages": 192,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb0"
+  },
+  "Book Name": "Star Wars: A New Hope",
+  "Author Name": "Brian Daley",
+  "Year of Publication": 1997,
+  "Price": 12.99,
+  "Number of Pages": 96,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb1"
+  },
+  "Book Name": "The Flash: The Return of Barry Allen",
+  "Author Name": "Mark Waid",
+  "Year of Publication": 1993,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb2"
+  },
+  "Book Name": "Detective Comics: Hush",
+  "Author Name": "Jeph Loeb",
+  "Year of Publication": 2003,
+  "Price": 24.99,
+  "Number of Pages": 256,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb3"
+  },
+  "Book Name": "Wonder Woman: The Circle",
+  "Author Name": "Brian Azzarello",
+  "Year of Publication": 2009,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb4"
+  },
+  "Book Name": "The Sandman: The Dollhouse",
+  "Author Name": "Neil Gaiman",
+  "Year of Publication": 1990,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb5"
+  },
+  "Book Name": "The Infinity Gauntlet",
+  "Author Name": "Jim Starlin",
+  "Year of Publication": 1991,
+  "Price": 19.99,
+  "Number of Pages": 192,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb6"
+  },
+  "Book Name": "Bone: The One Volume Edition",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 2004,
+  "Price": 39.99,
+  "Number of Pages": 1300,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb7"
+  },
+  "Book Name": "The Amazing Spider-Man: The Night Gwen Stacy Died",
+  "Author Name": "Gerry Conway",
+  "Year of Publication": 1973,
+  "Price": 12.99,
+  "Number of Pages": 96,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb8"
+  },
+  "Book Name": "Deadpool: Dead Presidents",
+  "Author Name": "Brian Posehn",
+  "Year of Publication": 2013,
+  "Price": 14.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bb9"
+  },
+  "Book Name": "Scalped: Volume 1",
+  "Author Name": "Jason Aaron",
+  "Year of Publication": 2007,
+  "Price": 14.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bba"
+  },
+  "Book Name": "American Vampire: Survival of the Fittest",
+  "Author Name": "Scott Snyder",
+  "Year of Publication": 2011,
+  "Price": 19.99,
+  "Number of Pages": 152,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bbb"
+  },
+  "Book Name": "Mighty Avengers: The Complete Collection",
+  "Author Name": "Brian Michael Bendis",
+  "Year of Publication": 2014,
+  "Price": 34.99,
+  "Number of Pages": 424,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bbc"
+  },
+  "Book Name": "The New Frontier",
+  "Author Name": "Darwyn Cooke",
+  "Year of Publication": 2004,
+  "Price": 24.99,
+  "Number of Pages": 240,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bbd"
+  },
+  "Book Name": "Wolverine: Old Man Logan",
+  "Author Name": "Mark Millar",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 224,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bbe"
+  },
+  "Book Name": "Justice League: Origin",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2012,
+  "Price": 14.99,
+  "Number of Pages": 176,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bbf"
+  },
+  "Book Name": "The Complete Chester Gould's Dick Tracy",
+  "Author Name": "Chester Gould",
+  "Year of Publication": 2011,
+  "Price": 49.99,
+  "Number of Pages": 320,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc0"
+  },
+  "Book Name": "Teen Titans: The Judas Contract",
+  "Author Name": "Marv Wolfman",
+  "Year of Publication": 1988,
+  "Price": 12.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc1"
+  },
+  "Book Name": "Punisher: Born",
+  "Author Name": "Garth Ennis",
+  "Year of Publication": 2000,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc2"
+  },
+  "Book Name": "Mister Miracle",
+  "Author Name": "Tom King",
+  "Year of Publication": 2017,
+  "Price": 24.99,
+  "Number of Pages": 300,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc3"
+  },
+  "Book Name": "Black Panther: A Nation Under Our Feet",
+  "Author Name": "Ta-Nehisi Coates",
+  "Year of Publication": 2016,
+  "Price": 24.99,
+  "Number of Pages": 184,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc4"
+  },
+  "Book Name": "The Flash: Flashpoint",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2011,
+  "Price": 19.99,
+  "Number of Pages": 176,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc5"
+  },
+  "Book Name": "Spider-Man: Kraven's Last Hunt",
+  "Author Name": "J.M. DeMatteis",
+  "Year of Publication": 1987,
+  "Price": 14.99,
+  "Number of Pages": 200,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc6"
+  },
+  "Book Name": "Ms. Marvel: Generation Why",
+  "Author Name": "G. Willow Wilson",
+  "Year of Publication": 2015,
+  "Price": 19.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc7"
+  },
+  "Book Name": "Locke & Key: Head Games",
+  "Author Name": "Joe Hill",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 152,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc8"
+  },
+  "Book Name": "Astro City: Life in the Big City",
+  "Author Name": "Kurt Busiek",
+  "Year of Publication": 1995,
+  "Price": 12.99,
+  "Number of Pages": 208,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bc9"
+  },
+  "Book Name": "Superman: All-Star Superman",
+  "Author Name": "Grant Morrison",
+  "Year of Publication": 2006,
+  "Price": 24.99,
+  "Number of Pages": 336,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bca"
+  },
+  "Book Name": "Gotham Central: In the Line of Duty",
+  "Author Name": "Ed Brubaker",
+  "Year of Publication": 2003,
+  "Price": 19.99,
+  "Number of Pages": 208,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bcb"
+  },
+  "Book Name": "Hawkeye: All-New Hawkeye",
+  "Author Name": "Jeff Lemire",
+  "Year of Publication": 2015,
+  "Price": 14.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bcc"
+  },
+  "Book Name": "Locke & Key: Crown of Shadows",
+  "Author Name": "Joe Hill",
+  "Year of Publication": 2009,
+  "Price": 19.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bcd"
+  },
+  "Book Name": "Buffy the Vampire Slayer: Season 8",
+  "Author Name": "Joss Whedon",
+  "Year of Publication": 2007,
+  "Price": 19.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bce"
+  },
+  "Book Name": "V for Vendetta: The Complete Edition",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 2005,
+  "Price": 29.99,
+  "Number of Pages": 272,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bcf"
+  },
+  "Book Name": "The Walking Dead: Volume 1",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2004,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd0"
+  },
+  "Book Name": "The Wicked + The Divine: Volume 1",
+  "Author Name": "Kieron Gillen",
+  "Year of Publication": 2014,
+  "Price": 14.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd1"
+  },
+  "Book Name": "The Amazing Spider-Man: The Night Gwen Stacy Died",
+  "Author Name": "Gerry Conway",
+  "Year of Publication": 1973,
+  "Price": 12.99,
+  "Number of Pages": 96,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd2"
+  },
+  "Book Name": "The Flash: The Trial of The Flash",
+  "Author Name": "Mike W. Barr",
+  "Year of Publication": 1983,
+  "Price": 14.99,
+  "Number of Pages": 256,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd3"
+  },
+  "Book Name": "Civil War",
+  "Author Name": "Mark Millar",
+  "Year of Publication": 2006,
+  "Price": 19.99,
+  "Number of Pages": 240,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd4"
+  },
+  "Book Name": "Astro City: The Dark Age",
+  "Author Name": "Kurt Busiek",
+  "Year of Publication": 2005,
+  "Price": 24.99,
+  "Number of Pages": 320,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd5"
+  },
+  "Book Name": "The Crow: The Story of the Movie",
+  "Author Name": "James O'Barr",
+  "Year of Publication": 1994,
+  "Price": 14.99,
+  "Number of Pages": 96,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd6"
+  },
+  "Book Name": "Maus II: And Here My Troubles Began",
+  "Author Name": "Art Spiegelman",
+  "Year of Publication": 1991,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd7"
+  },
+  "Book Name": "Ultimate Spider-Man: Volume 1",
+  "Author Name": "Brian Michael Bendis",
+  "Year of Publication": 2000,
+  "Price": 12.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd8"
+  },
+  "Book Name": "Blade of the Immortal: Blood of a Thousand",
+  "Author Name": "Hiroaki Samura",
+  "Year of Publication": 1996,
+  "Price": 14.99,
+  "Number of Pages": 224,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bd9"
+  },
+  "Book Name": "Daredevil: The Man Without Fear",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1993,
+  "Price": 12.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bda"
+  },
+  "Book Name": "Black Widow: The Finely Woven Thread",
+  "Author Name": "Nathan Edmondson",
+  "Year of Publication": 2014,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bdb"
+  },
+  "Book Name": "Giant Days: Volume 1",
+  "Author Name": "John Allison",
+  "Year of Publication": 2016,
+  "Price": 12.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bdc"
+  },
+  "Book Name": "Lumberjanes: Volume 1",
+  "Author Name": "Noelle Stevenson",
+  "Year of Publication": 2015,
+  "Price": 14.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bdd"
+  },
+  "Book Name": "Snotgirl: Volume 1",
+  "Author Name": "Bryan Lee O'Malley",
+  "Year of Publication": 2016,
+  "Price": 12.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bde"
+  },
+  "Book Name": "Mighty Thor: The Unworthy",
+  "Author Name": "Jason Aaron",
+  "Year of Publication": 2017,
+  "Price": 19.99,
+  "Number of Pages": 136,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91bdf"
+  },
+  "Book Name": "The Walking Dead: Volume 2",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2004,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91be0"
+  },
+  "Book Name": "Bone: The Complete Edition",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 2004,
+  "Price": 39.99,
+  "Number of Pages": 1300,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91be1"
+  },
+  "Book Name": "Hellboy: The Golden Army",
+  "Author Name": "Mike Mignola",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91be2"
+  },
+  "Book Name": "Jem and the Holograms: Volume 1",
+  "Author Name": "Kelly Thompson",
+  "Year of Publication": 2015,
+  "Price": 14.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91be3"
+  },
+  "Book Name": "The Unbeatable Squirrel Girl: Volume 1",
+  "Author Name": "Ryan North",
+  "Year of Publication": 2015,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91be4"
+  },
+  "Book Name": "The Flash: Year One",
+  "Author Name": "Joshua Williamson",
+  "Year of Publication": 2018,
+  "Price": 19.99,
+  "Number of Pages": 176,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91be5"
+  },
+  "Book Name": "Ms. Marvel: Super Famous",
+  "Author Name": "G. Willow Wilson",
+  "Year of Publication": 2015,
+  "Price": 19.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721cdfc573cfbc7cdc91be6"
+  },
+  "Book Name": "The Secret History of Wonder Woman",
+  "Author Name": "Jill Lepore",
+  "Year of Publication": 2014,
+  "Price": 24.99,
+  "Number of Pages": 432,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91be8"
+  },
+  "Book Name": "Saga: Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2012,
+  "Price": 14.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91be9"
+  },
+  "Book Name": "The Vision",
+  "Author Name": "Tom King",
+  "Year of Publication": 2015,
+  "Price": 19.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bea"
+  },
+  "Book Name": "Black Hammer: Volume 1",
+  "Author Name": "Jeff Lemire",
+  "Year of Publication": 2016,
+  "Price": 14.99,
+  "Number of Pages": 224,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91beb"
+  },
+  "Book Name": "Paper Girls: Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2015,
+  "Price": 14.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bec"
+  },
+  "Book Name": "Y: The Last Man: Volume 1",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2002,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bed"
+  },
+  "Book Name": "Locke & Key: Welcome to Lovecraft",
+  "Author Name": "Joe Hill",
+  "Year of Publication": 2008,
+  "Price": 19.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bee"
+  },
+  "Book Name": "Batman: Year One",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1987,
+  "Price": 14.99,
+  "Number of Pages": 48,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bef"
+  },
+  "Book Name": "All-Star Batman and Robin, the Boy Wonder",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 2005,
+  "Price": 29.99,
+  "Number of Pages": 144,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf0"
+  },
+  "Book Name": "Daredevil: Born Again",
+  "Author Name": "Frank Miller",
+  "Year of Publication": 1986,
+  "Price": 14.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf1"
+  },
+  "Book Name": "Ghost World",
+  "Author Name": "Daniel Clowes",
+  "Year of Publication": 1993,
+  "Price": 19.99,
+  "Number of Pages": 80,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf2"
+  },
+  "Book Name": "Daytripper",
+  "Author Name": "Fábio Moon",
+  "Year of Publication": 2010,
+  "Price": 19.99,
+  "Number of Pages": 256,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf3"
+  },
+  "Book Name": "The Bunker",
+  "Author Name": "Joshua Hale Fialkov",
+  "Year of Publication": 2014,
+  "Price": 14.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf4"
+  },
+  "Book Name": "The Nice House on the Lake",
+  "Author Name": "James Tynion IV",
+  "Year of Publication": 2021,
+  "Price": 19.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf5"
+  },
+  "Book Name": "Wytches",
+  "Author Name": "Scott Snyder",
+  "Year of Publication": 2014,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf6"
+  },
+  "Book Name": "Sandman: Preludes & Nocturnes",
+  "Author Name": "Neil Gaiman",
+  "Year of Publication": 1990,
+  "Price": 14.99,
+  "Number of Pages": 240,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf7"
+  },
+  "Book Name": "Hellboy: Seed of Destruction",
+  "Author Name": "Mike Mignola",
+  "Year of Publication": 1994,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf8"
+  },
+  "Book Name": "Fables: Volume 1",
+  "Author Name": "Bill Willingham",
+  "Year of Publication": 2002,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bf9"
+  },
+  "Book Name": "Chew: Volume 1",
+  "Author Name": "John Layman",
+  "Year of Publication": 2009,
+  "Price": 14.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bfa"
+  },
+  "Book Name": "The Umbrella Academy: Volume 1",
+  "Author Name": "Gerard Way",
+  "Year of Publication": 2008,
+  "Price": 14.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bfb"
+  },
+  "Book Name": "X-Men: God Loves, Man Kills",
+  "Author Name": "Chris Claremont",
+  "Year of Publication": 1982,
+  "Price": 12.99,
+  "Number of Pages": 120,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bfc"
+  },
+  "Book Name": "The Killing Joke",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 1988,
+  "Price": 14.99,
+  "Number of Pages": 64,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bfd"
+  },
+  "Book Name": "Astonishing X-Men: Gifted",
+  "Author Name": "Joss Whedon",
+  "Year of Publication": 2004,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bfe"
+  },
+  "Book Name": "Bone: Out from Boneville",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 1995,
+  "Price": 12.99,
+  "Number of Pages": 140,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91bff"
+  },
+  "Book Name": "Sweet Tooth: Volume 1",
+  "Author Name": "Jeff Lemire",
+  "Year of Publication": 2009,
+  "Price": 14.99,
+  "Number of Pages": 160,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c00"
+  },
+  "Book Name": "The Manhattan Projects: Volume 1",
+  "Author Name": "Jonathan Hickman",
+  "Year of Publication": 2012,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c01"
+  },
+  "Book Name": "Saga: Volume 2",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2013,
+  "Price": 14.99,
+  "Number of Pages": 160,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c02"
+  },
+  "Book Name": "Murder Falcon",
+  "Author Name": "Daniel Warren Johnson",
+  "Year of Publication": 2018,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c03"
+  },
+  "Book Name": "Tokyo Ghost: Volume 1",
+  "Author Name": "Rick Remender",
+  "Year of Publication": 2015,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c04"
+  },
+  "Book Name": "Seven to Eternity: Volume 1",
+  "Author Name": "Rick Remender",
+  "Year of Publication": 2016,
+  "Price": 14.99,
+  "Number of Pages": 136,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c05"
+  },
+  "Book Name": "East of West: Volume 1",
+  "Author Name": "Jonathan Hickman",
+  "Year of Publication": 2014,
+  "Price": 14.99,
+  "Number of Pages": 152,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c06"
+  },
+  "Book Name": "Invincible: Volume 1",
+  "Author Name": "Robert Kirkman",
+  "Year of Publication": 2003,
+  "Price": 12.99,
+  "Number of Pages": 192,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c07"
+  },
+  "Book Name": "The Flash: Rebirth",
+  "Author Name": "Geoff Johns",
+  "Year of Publication": 2009,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c08"
+  },
+  "Book Name": "Star Wars: Darth Vader - Dark Lord of the Sith",
+  "Author Name": "Charles Soule",
+  "Year of Publication": 2017,
+  "Price": 19.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c09"
+  },
+  "Book Name": "Old Man Logan",
+  "Author Name": "Jeff Lemire",
+  "Year of Publication": 2016,
+  "Price": 19.99,
+  "Number of Pages": 120,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c0a"
+  },
+  "Book Name": "The Black Monday Murders",
+  "Author Name": "Jonathan Hickman",
+  "Year of Publication": 2016,
+  "Price": 19.99,
+  "Number of Pages": 128,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce35573cfbc7cdc91c0b"
+  },
+  "Book Name": "Fell: Volume 1",
+  "Author Name": "Warren Ellis",
+  "Year of Publication": 2005,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c0d"
+  },
+  "Book Name": "Shazam! The Monster Society of Evil",
+  "Author Name": "Jeff Smith",
+  "Year of Publication": 2007,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c0e"
+  },
+  "Book Name": "The Adventures of Tintin: The Secret of the Unicorn",
+  "Author Name": "Hergé",
+  "Year of Publication": 1943,
+  "Price": 14.99,
+  "Number of Pages": 62,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c0f"
+  },
+  "Book Name": "Persepolis: The Story of a Childhood",
+  "Author Name": "Marjane Satrapi",
+  "Year of Publication": 2003,
+  "Price": 12.99,
+  "Number of Pages": 153,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c10"
+  },
+  "Book Name": "Scott Pilgrim's Precious Little Life",
+  "Author Name": "Bryan Lee O'Malley",
+  "Year of Publication": 2004,
+  "Price": 10.99,
+  "Number of Pages": 168,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c11"
+  },
+  "Book Name": "The League of Extraordinary Gentlemen: Volume 1",
+  "Author Name": "Alan Moore",
+  "Year of Publication": 2000,
+  "Price": 14.99,
+  "Number of Pages": 224,
+  "Condition": "used"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c12"
+  },
+  "Book Name": "Bitch Planet: Volume 1",
+  "Author Name": "Kelly Sue DeConnick",
+  "Year of Publication": 2015,
+  "Price": 14.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c13"
+  },
+  "Book Name": "Transmetropolitan: Volume 1",
+  "Author Name": "Warren Ellis",
+  "Year of Publication": 1997,
+  "Price": 19.99,
+  "Number of Pages": 192,
+  "Condition": "new"
+},
+{
+  "_id": {
+    "$oid": "6721ce52573cfbc7cdc91c14"
+  },
+  "Book Name": "The Private Eye",
+  "Author Name": "Brian K. Vaughan",
+  "Year of Publication": 2013,
+  "Price": 19.99,
+  "Number of Pages": 144,
+  "Condition": "new"
+}]

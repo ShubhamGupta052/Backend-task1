@@ -1,0 +1,14 @@
+{
+  "name": "backend-task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^6.13.3"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
